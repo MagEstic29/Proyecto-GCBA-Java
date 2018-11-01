@@ -1,0 +1,47 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-06-07 19:24:05 #1 store] 
+Database 'C:\Users\yona\Documents\ESCOM\POO\Proyecto GCBA\objectdb-2.7.0\db\pointsThree.odb' is opened by 7376@JonathanHp
+
+[2018-06-07 19:24:05 #2 type.registry] 
+New type bdoo.MyPointEntity
+
+[2018-06-07 19:24:05 #3 type] 
+Type bdoo.MyPointEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-06-07 19:25:34 #1 store] 
+Database 'C:\Users\yona\Documents\ESCOM\POO\Proyecto GCBA\objectdb-2.7.0\db\pointsThree.odb' has been recovered (tr. 1-4)
+
+[2018-06-07 19:25:34 #2 store] 
+Database 'C:\Users\yona\Documents\ESCOM\POO\Proyecto GCBA\objectdb-2.7.0\db\pointsThree.odb' is opened by 11312@JonathanHp
+
+[2018-06-07 19:25:34 #3 type] 
+Type bdoo.MyPointEntity is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-06-07 19:31:11 #1 store] 
+Database 'C:\Users\yona\Documents\ESCOM\POO\Proyecto GCBA\objectdb-2.7.0\db\alumnos.odb' is opened by 8392@JonathanHp
+
+[2018-06-07 19:31:12 #2 type.registry] 
+New type bdoo.dao.AlumnoEntity
+
+[2018-06-07 19:31:12 #3 type] 
+Type bdoo.dao.AlumnoEntity is not enhanced.
+
+[2018-06-07 19:31:12 #4 store] 
+Database 'C:\Users\yona\Documents\ESCOM\POO\Proyecto GCBA\objectdb-2.7.0\db\alumnos.odb' is closed by 8392@JonathanHp
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-06-07 20:04:43 #1 store] 
+Database 'C:\Users\yona\Documents\ESCOM\POO\Proyecto GCBA\objectdb-2.7.0\db\alumnos.odb' is opened by 7844@JonathanHp
+
+[2018-06-07 20:04:44 #2 type] 
+Type bdoo.dao.AlumnoEntity is not enhanced.
+
+[2018-06-07 20:04:44 #3 store] 
+Database 'C:\Users\yona\Documents\ESCOM\POO\Proyecto GCBA\objectdb-2.7.0\db\alumnos.odb' is closed by 7844@JonathanHp
+
